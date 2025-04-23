@@ -1,0 +1,101 @@
+Account ID,Account Type,Branch,Customer Type,Account Balance,KYC Status,Last Transaction Date,Email Contact Attempt,SMS Contact Attempt,Phone Call Attempt,Account Status
+ACC0000,Investment,Abu Dhabi,Retail,52160.33,Expired,2021-12-01,Yes,Yes,No,Dormant
+ACC0001,Safe Deposit,Fujairah,Youth,228942.59,Expired,2021-06-11,No,Yes,Yes,Dormant
+ACC0002,Investment,Sharjah,Corporate,408810.48,Valid,2021-08-01,No,Yes,No,Dormant
+ACC0003,Savings/Call/Current,Abu Dhabi,Corporate,315622.58,Valid,2021-10-04,No,Yes,Yes,Dormant
+ACC0004,Investment,Fujairah,Corporate,169346.89,Valid,2021-06-14,No,Yes,No,Dormant
+ACC0005,Investment,Abu Dhabi,Corporate,239114.7,Valid,2021-10-10,Yes,No,No,Dormant
+ACC0006,Safe Deposit,Sharjah,VIP,137589.79,Expired,2021-05-16,Yes,Yes,No,Dormant
+ACC0007,Savings/Call/Current,Al Ain,VIP,266282.28,Expired,2021-10-22,Yes,Yes,No,Dormant
+ACC0008,Savings/Call/Current,Dubai,Retail,498304.67,Expired,2022-02-22,Yes,Yes,No,Dormant
+ACC0009,Fixed Deposit,Sharjah,Youth,264214.65,Valid,2022-03-09,Yes,Yes,Yes,Dormant
+ACC0010,Safe Deposit,Dubai,Youth,257325.76,Expired,2021-09-17,No,Yes,No,Dormant
+ACC0011,Safe Deposit,Abu Dhabi,Retail,26898.57,Valid,2022-02-21,No,Yes,Yes,Dormant
+ACC0012,Savings/Call/Current,Al Ain,VIP,203199.92,Valid,2021-10-31,Yes,No,Yes,Dormant
+ACC0013,Fixed Deposit,Abu Dhabi,VIP,284311.04,Expired,2021-12-07,No,Yes,Yes,Dormant
+ACC0014,Fixed Deposit,Fujairah,VIP,452480.12,Valid,2021-11-11,Yes,No,No,Dormant
+ACC0015,Investment,Fujairah,Corporate,283005.05,Expired,2021-11-11,Yes,Yes,No,Dormant
+ACC0016,Fixed Deposit,Fujairah,VIP,26697.15,Valid,2021-12-13,No,No,No,Dormant
+ACC0017,Savings/Call/Current,Dubai,VIP,369857.14,Expired,2022-01-09,Yes,No,No,Dormant
+ACC0018,Safe Deposit,Fujairah,VIP,65645.32,Expired,2022-03-21,Yes,Yes,No,Dormant
+ACC0019,Safe Deposit,Fujairah,VIP,154111.98,Valid,2022-01-11,No,Yes,Yes,Dormant
+ACC0020,Savings/Call/Current,Al Ain,Corporate,380219.36,Expired,2022-02-26,Yes,No,Yes,Dormant
+ACC0021,Fixed Deposit,Sharjah,Retail,473629.25,Expired,2022-03-28,No,Yes,No,Dormant
+ACC0022,Savings/Call/Current,Dubai,Corporate,61426.37,Valid,2022-03-20,Yes,Yes,Yes,Dormant
+ACC0023,Safe Deposit,Fujairah,Youth,399940.45,Expired,2021-06-24,Yes,Yes,Yes,Dormant
+ACC0024,Fixed Deposit,Fujairah,Corporate,169306.77,Expired,2021-12-20,Yes,Yes,No,Dormant
+ACC0025,Fixed Deposit,Fujairah,VIP,128194.41,Expired,2021-05-15,No,Yes,No,Dormant
+ACC0026,Savings/Call/Current,Dubai,VIP,34943.15,Expired,2021-04-14,Yes,Yes,Yes,Dormant
+ACC0027,Investment,Fujairah,Corporate,156591.6,Valid,2021-06-27,Yes,No,Yes,Dormant
+ACC0028,Fixed Deposit,Sharjah,Corporate,112800.89,Valid,2021-03-25,No,Yes,Yes,Dormant
+ACC0029,Savings/Call/Current,Al Ain,Youth,192318.12,Expired,2021-04-03,No,No,Yes,Dormant
+ACC0030,Fixed Deposit,Abu Dhabi,Retail,213250.32,Valid,2021-05-14,No,No,Yes,Dormant
+ACC0031,Investment,Fujairah,Corporate,422280.59,Valid,2021-06-28,Yes,Yes,Yes,Dormant
+ACC0032,Safe Deposit,Fujairah,Youth,174958.82,Valid,2021-12-26,No,Yes,Yes,Dormant
+ACC0033,Savings/Call/Current,Abu Dhabi,Youth,452942.72,Valid,2021-09-20,No,No,Yes,Dormant
+ACC0034,Investment,Al Ain,VIP,216150.77,Valid,2021-05-23,Yes,Yes,Yes,Dormant
+ACC0035,Savings/Call/Current,Al Ain,Corporate,81523.73,Valid,2021-10-06,Yes,No,Yes,Dormant
+ACC0036,Savings/Call/Current,Fujairah,Corporate,357333.93,Valid,2021-06-04,Yes,No,No,Dormant
+ACC0037,Savings/Call/Current,Al Ain,VIP,173367.87,Valid,2022-04-09,No,No,Yes,Dormant
+ACC0038,Investment,Sharjah,Retail,332772.24,Valid,2021-08-13,No,Yes,Yes,Dormant
+ACC0039,Savings/Call/Current,Sharjah,Corporate,341295.41,Valid,2021-12-16,Yes,Yes,No,Dormant
+ACC0040,Fixed Deposit,Dubai,Retail,155694.81,Expired,2021-12-18,No,No,Yes,Dormant
+ACC0041,Safe Deposit,Abu Dhabi,VIP,356322.99,Expired,2021-12-09,Yes,Yes,Yes,Dormant
+ACC0042,Investment,Fujairah,VIP,62236.49,Valid,2021-12-03,No,No,No,Dormant
+ACC0043,Investment,Dubai,Youth,482921.66,Valid,2021-03-14,Yes,No,No,Dormant
+ACC0044,Investment,Fujairah,VIP,157191.27,Valid,2021-04-22,No,Yes,Yes,Dormant
+ACC0045,Investment,Fujairah,Corporate,278131.14,Valid,2021-12-25,No,Yes,Yes,Dormant
+ACC0046,Investment,Al Ain,VIP,182420.73,Expired,2021-12-22,Yes,Yes,No,Dormant
+ACC0047,Safe Deposit,Fujairah,VIP,128243.74,Valid,2021-10-12,No,Yes,No,Dormant
+ACC0048,Fixed Deposit,Fujairah,Retail,116937.59,Valid,2021-06-21,Yes,Yes,No,Dormant
+ACC0049,Safe Deposit,Abu Dhabi,Youth,11161.19,Expired,2021-10-24,No,Yes,Yes,Dormant
+ACC0050,Fixed Deposit,Abu Dhabi,Corporate,239585.11,Expired,2021-09-30,Yes,Yes,Yes,Dormant
+ACC0051,Fixed Deposit,Fujairah,Youth,213045.53,Valid,2022-02-11,No,Yes,Yes,Dormant
+ACC0052,Fixed Deposit,Fujairah,Corporate,149103.67,Valid,2021-10-12,No,Yes,No,Dormant
+ACC0053,Safe Deposit,Abu Dhabi,Corporate,178786.69,Valid,2021-08-09,Yes,No,Yes,Dormant
+ACC0054,Savings/Call/Current,Abu Dhabi,VIP,24550.45,Expired,2021-05-24,No,Yes,No,Dormant
+ACC0055,Safe Deposit,Fujairah,Retail,439700.71,Valid,2021-06-06,Yes,No,No,Dormant
+ACC0056,Fixed Deposit,Sharjah,VIP,37215.7,Expired,2021-05-12,Yes,Yes,No,Dormant
+ACC0057,Safe Deposit,Sharjah,Corporate,392358.03,Valid,2021-09-07,No,No,Yes,Dormant
+ACC0058,Safe Deposit,Sharjah,VIP,14944.18,Expired,2021-10-09,No,No,No,Dormant
+ACC0059,Safe Deposit,Sharjah,Youth,193971.85,Valid,2021-12-12,No,No,No,Dormant
+ACC0060,Savings/Call/Current,Fujairah,Youth,240344.44,Expired,2022-01-30,No,Yes,No,Dormant
+ACC0061,Savings/Call/Current,Al Ain,Corporate,318768.56,Expired,2021-06-18,Yes,No,Yes,Dormant
+ACC0062,Investment,Al Ain,Retail,386694.01,Valid,2022-02-16,No,No,Yes,Dormant
+ACC0063,Fixed Deposit,Sharjah,Retail,278484.57,Expired,2021-04-03,No,No,No,Dormant
+ACC0064,Investment,Al Ain,Corporate,496611.07,Valid,2022-02-06,Yes,No,Yes,Dormant
+ACC0065,Investment,Dubai,Youth,8294.22,Expired,2021-09-12,No,No,No,Dormant
+ACC0066,Safe Deposit,Dubai,Youth,42182.69,Valid,2021-07-21,No,Yes,No,Dormant
+ACC0067,Investment,Fujairah,Corporate,98788.23,Expired,2021-08-21,Yes,Yes,No,Dormant
+ACC0068,Investment,Abu Dhabi,Corporate,11099.24,Expired,2021-03-24,Yes,No,Yes,Dormant
+ACC0069,Safe Deposit,Sharjah,VIP,108124.73,Valid,2021-07-18,No,No,No,Dormant
+ACC0070,Fixed Deposit,Dubai,Corporate,120062.18,Expired,2021-07-12,Yes,No,No,Dormant
+ACC0071,Investment,Dubai,Youth,312533.01,Valid,2022-01-31,No,No,No,Dormant
+ACC0072,Fixed Deposit,Abu Dhabi,VIP,154653.62,Valid,2021-12-10,No,No,Yes,Dormant
+ACC0073,Savings/Call/Current,Abu Dhabi,Youth,148832.37,Expired,2022-01-24,No,Yes,No,Dormant
+ACC0074,Safe Deposit,Fujairah,Corporate,363515.22,Valid,2022-01-27,No,No,Yes,Dormant
+ACC0075,Safe Deposit,Fujairah,Youth,247133.58,Expired,2021-11-05,Yes,Yes,No,Dormant
+ACC0076,Investment,Al Ain,Corporate,23104.33,Expired,2021-07-20,No,No,No,Dormant
+ACC0077,Fixed Deposit,Dubai,Retail,10812.88,Expired,2021-08-08,Yes,No,No,Dormant
+ACC0078,Safe Deposit,Abu Dhabi,Retail,104884.17,Valid,2022-03-31,Yes,Yes,Yes,Dormant
+ACC0079,Safe Deposit,Fujairah,Retail,155371.48,Valid,2021-09-12,No,No,No,Dormant
+ACC0080,Savings/Call/Current,Al Ain,Youth,188632.08,Expired,2021-05-04,Yes,No,Yes,Dormant
+ACC0081,Savings/Call/Current,Sharjah,Youth,36767.22,Valid,2021-08-22,Yes,No,No,Dormant
+ACC0082,Fixed Deposit,Abu Dhabi,Corporate,357868.66,Valid,2022-01-14,Yes,Yes,Yes,Dormant
+ACC0083,Fixed Deposit,Al Ain,Youth,91048.58,Expired,2021-07-08,Yes,No,No,Dormant
+ACC0084,Safe Deposit,Fujairah,Retail,164437.96,Valid,2021-08-27,No,Yes,No,Dormant
+ACC0085,Safe Deposit,Dubai,Youth,191940.01,Valid,2021-05-24,Yes,Yes,Yes,Dormant
+ACC0086,Investment,Fujairah,Corporate,315630.41,Valid,2021-11-08,Yes,Yes,No,Dormant
+ACC0087,Fixed Deposit,Sharjah,Retail,147359.56,Expired,2021-06-10,No,No,Yes,Dormant
+ACC0088,Fixed Deposit,Fujairah,VIP,143007.41,Expired,2021-04-18,Yes,No,No,Dormant
+ACC0089,Fixed Deposit,Al Ain,VIP,286312.92,Expired,2021-05-19,Yes,No,No,Dormant
+ACC0090,Investment,Al Ain,VIP,279799.2,Valid,2022-04-01,No,Yes,No,Dormant
+ACC0091,Fixed Deposit,Fujairah,Youth,192543.16,Expired,2021-08-13,No,Yes,No,Dormant
+ACC0092,Safe Deposit,Al Ain,Retail,316248.04,Expired,2021-07-21,Yes,No,No,Dormant
+ACC0093,Savings/Call/Current,Al Ain,Corporate,19298.44,Expired,2021-03-22,Yes,No,No,Dormant
+ACC0094,Safe Deposit,Sharjah,Corporate,17512.34,Expired,2021-10-24,No,No,Yes,Dormant
+ACC0095,Investment,Dubai,Corporate,170396.46,Valid,2022-02-08,No,No,Yes,Dormant
+ACC0096,Investment,Sharjah,VIP,164732.4,Expired,2022-01-21,No,Yes,No,Dormant
+ACC0097,Fixed Deposit,Abu Dhabi,Youth,425243.23,Expired,2021-06-29,Yes,Yes,No,Dormant
+ACC0098,Investment,Dubai,Corporate,205482.63,Expired,2022-01-25,No,No,Yes,Dormant
+ACC0099,Savings/Call/Current,Sharjah,Corporate,468557.31,Expired,2021-08-25,Yes,No,No,Dormant
